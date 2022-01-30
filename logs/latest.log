@@ -1,0 +1,303 @@
+[14:38:37] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[14:38:37] [Server thread/INFO]: Loading properties
+[14:38:37] [Server thread/INFO]: Default game type: CREATIVE
+[14:38:37] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-db6de12-18fbb24 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[14:38:38] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:38:38] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:38:38] [Server thread/INFO]: Debug logging is disabled
+[14:38:38] [Server thread/INFO]: Generating keypair
+[14:38:38] [Server thread/INFO]: Starting Minecraft server on localhost:25565
+[14:38:38] [Server thread/INFO]: Using default channel type
+[14:38:39] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[14:38:39] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.0;3342-78f975b9
+[14:38:39] [Server thread/INFO]: [Vault] Loading Vault v1.7.2-b107
+[14:38:39] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b699
+[14:38:39] [Server thread/INFO]: [Vault] Enabling Vault v1.7.2-b107
+[14:38:40] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[14:38:40] [Server thread/INFO]: [Vault] Enabled Version 1.7.2-b107
+[14:38:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:38:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:38:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:38:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:38:40] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[14:38:40] [Server thread/INFO]: Preparing level "world"
+[14:38:40] [Server thread/INFO]: -------- World Settings For [world] --------
+[14:38:40] [Server thread/INFO]: Max Entity Collisions: 8
+[14:38:40] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[14:38:40] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[14:38:40] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:38:40] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:38:40] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[14:38:40] [Server thread/INFO]: Clear tick list: false
+[14:38:40] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:38:40] [Server thread/INFO]: View Distance: 10
+[14:38:40] [Server thread/INFO]: Anti X-Ray: true
+[14:38:40] [Server thread/INFO]: 	Engine Mode: 1
+[14:38:40] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[14:38:40] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[14:38:40] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:38:40] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[14:38:40] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:38:40] [Server thread/INFO]: Random Lighting Updates: false
+[14:38:40] [Server thread/INFO]: Structure Info Saving: true
+[14:38:40] [Server thread/INFO]: Mob Spawn Range: 4
+[14:38:40] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:38:40] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:38:40] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:38:40] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:38:40] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:38:40] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:38:40] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:38:40] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:38:40] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:38:40] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:38:40] [Server thread/INFO]: Sending up to 10 chunks per packet
+[14:38:40] [Server thread/INFO]: Max TNT Explosions: 100
+[14:38:40] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:38:40] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:38:41] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[14:38:41] [Server thread/INFO]: Max Entity Collisions: 8
+[14:38:41] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[14:38:41] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[14:38:41] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:38:41] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:38:41] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[14:38:41] [Server thread/INFO]: Clear tick list: false
+[14:38:41] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:38:41] [Server thread/INFO]: View Distance: 10
+[14:38:41] [Server thread/INFO]: Anti X-Ray: true
+[14:38:41] [Server thread/INFO]: 	Engine Mode: 1
+[14:38:41] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[14:38:41] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[14:38:41] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:38:41] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[14:38:41] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:38:41] [Server thread/INFO]: Random Lighting Updates: false
+[14:38:41] [Server thread/INFO]: Structure Info Saving: true
+[14:38:41] [Server thread/INFO]: Mob Spawn Range: 4
+[14:38:41] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:38:41] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:38:41] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:38:41] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:38:41] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:38:41] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:38:41] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:38:41] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:38:41] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:38:41] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:38:41] [Server thread/INFO]: Sending up to 10 chunks per packet
+[14:38:41] [Server thread/INFO]: Max TNT Explosions: 100
+[14:38:41] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:38:41] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:38:42] [Server thread/INFO]: Preparing start region for level 0 (Seed: 4635131186511732340)
+[14:38:42] [Server thread/WARN]: Skipping Entity with id minecraft:item
+[14:38:42] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:42] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:42] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:42] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:42] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:42] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:42] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:42] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:42] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:42] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:42] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:42] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:42] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:42] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:42] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:42] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:42] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:42] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:42] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:42] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/INFO]: Preparing spawn area: 3%
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:43] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:44] [Server thread/INFO]: Preparing spawn area: 6%
+[14:38:44] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:44] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:44] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:44] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:44] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:44] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:44] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:44] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:44] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:44] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:44] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:44] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:44] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:44] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:44] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:44] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:44] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:44] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:45] [Server thread/INFO]: Preparing spawn area: 10%
+[14:38:45] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:45] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:45] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:45] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:45] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:45] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:45] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:45] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:45] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:45] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:45] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:45] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:45] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:45] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:45] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:45] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:45] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:45] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:45] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:45] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:45] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:45] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:45] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:46] [Server thread/INFO]: Preparing spawn area: 17%
+[14:38:47] [Server thread/INFO]: Preparing spawn area: 25%
+[14:38:47] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:47] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:47] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:48] [Server thread/INFO]: Preparing spawn area: 32%
+[14:38:48] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:48] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:49] [Server thread/INFO]: Preparing spawn area: 37%
+[14:38:50] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:50] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:50] [Server thread/INFO]: Preparing spawn area: 44%
+[14:38:51] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:51] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:51] [Server thread/INFO]: Preparing spawn area: 54%
+[14:38:51] [Server thread/WARN]: Skipping BlockEntity with id minecraft:chest
+[14:38:51] [Server thread/WARN]: Skipping BlockEntity with id minecraft:mob_spawner
+[14:38:51] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:51] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:51] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:51] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:51] [Server thread/WARN]: Skipping Entity with id minecraft:falling_block
+[14:38:51] [Server thread/WARN]: Skipping Entity with id minecraft:item
+[14:38:51] [Server thread/WARN]: Skipping BlockEntity with id minecraft:chest
+[14:38:52] [Server thread/INFO]: Preparing spawn area: 73%
+[14:38:53] [Server thread/INFO]: Preparing spawn area: 81%
+[14:38:54] [Server thread/INFO]: Preparing spawn area: 89%
+[14:38:55] [Server thread/INFO]: Preparing spawn area: 98%
+[14:38:55] [Server thread/INFO]: Preparing start region for level 1 (Seed: 4635131186511732340)
+[14:38:56] [Server thread/INFO]: Preparing spawn area: 4%
+[14:38:56] [Server thread/WARN]: Skipping Entity with id minecraft:ender_crystal
+[14:38:56] [Server thread/WARN]: Skipping Entity with id minecraft:ender_crystal
+[14:38:56] [Server thread/WARN]: Skipping Entity with id minecraft:ender_crystal
+[14:38:56] [Server thread/WARN]: Skipping Entity with id minecraft:ender_crystal
+[14:38:56] [Server thread/WARN]: Skipping Entity with id minecraft:ender_crystal
+[14:38:57] [Server thread/WARN]: Skipping Entity with id minecraft:ender_crystal
+[14:38:57] [Server thread/INFO]: Preparing spawn area: 50%
+[14:38:58] [Server thread/WARN]: Skipping Entity with id minecraft:ender_crystal
+[14:38:58] [Server thread/WARN]: Skipping Entity with id minecraft:ender_crystal
+[14:38:58] [Server thread/WARN]: Skipping Entity with id minecraft:ender_crystal
+[14:38:58] [Server thread/WARN]: Skipping Entity with id minecraft:ender_crystal
+[14:38:58] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.0;3342-78f975b9
+[14:39:05] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[14:39:06] [Server thread/WARN]: [WorldEdit] 
+**********************************************
+** This WorldEdit version does not fully support your version of Bukkit.
+**
+** When working with blocks or undoing, chests will be empty, signs
+** will be blank, and so on. There will be no support for entity
+** and biome-related functions.
+**
+** Please see http://wiki.sk89q.com/wiki/WorldEdit/Bukkit_adapters
+**********************************************
+
+[14:39:06] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b699
+[14:39:08] [Server thread/INFO]: -------- World Settings For [Lobby] --------
+[14:39:08] [Server thread/INFO]: Max Entity Collisions: 8
+[14:39:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[14:39:08] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[14:39:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:39:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:39:08] [Server thread/INFO]: Chunks to Grow per Tick: 650
+[14:39:08] [Server thread/INFO]: Clear tick list: false
+[14:39:08] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:39:08] [Server thread/INFO]: View Distance: 10
+[14:39:08] [Server thread/INFO]: Anti X-Ray: true
+[14:39:08] [Server thread/INFO]: 	Engine Mode: 1
+[14:39:08] [Server thread/INFO]: 	Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[14:39:08] [Server thread/INFO]: 	Replace Blocks: [1, 5]
+[14:39:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:39:08] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[14:39:08] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:39:08] [Server thread/INFO]: Random Lighting Updates: false
+[14:39:08] [Server thread/INFO]: Structure Info Saving: true
+[14:39:08] [Server thread/INFO]: Mob Spawn Range: 4
+[14:39:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:39:08] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:39:08] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:39:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:39:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:39:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:39:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:39:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:39:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:39:08] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:39:08] [Server thread/INFO]: Sending up to 10 chunks per packet
+[14:39:08] [Server thread/INFO]: Max TNT Explosions: 100
+[14:39:08] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:39:08] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:39:08] [Server thread/INFO]: Preparing start region for level 2 (Seed: 3059969000995739999)
+[14:39:09] [Server thread/INFO]: Preparing spawn area for Lobby, 8%
+[14:39:10] [Server thread/INFO]: Preparing spawn area for Lobby, 20%
+[14:39:11] [Server thread/INFO]: Preparing spawn area for Lobby, 52%
+[14:39:12] [Server thread/INFO]: Preparing spawn area for Lobby, 61%
+[14:39:13] [Server thread/INFO]: Preparing spawn area for Lobby, 89%
+[14:39:13] [Server thread/INFO]: [Multiverse-Core] 2 - World(s) loaded.
+[14:39:16] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b699 (API v19) Enabled - By Rigby, fernferret, lithium3141 and main--
+[14:39:16] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:39:16] [Server thread/INFO]: Done (36,433s)! For help, type "help" or "?"
+[14:39:16] [Craft Scheduler Thread - 1/INFO]: [Vault] Checking for Updates ... 
+[14:39:41] [Craft Scheduler Thread - 1/WARN]: [Vault] Stable Version: 1.7.3 is out! You are still running version: 1.7.2
+[14:39:41] [Craft Scheduler Thread - 1/WARN]: [Vault] Update at: https://dev.bukkit.org/projects/vault
